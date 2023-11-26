@@ -1,0 +1,6 @@
+requirements.txt
+env
+__pycache__
+README.md
+.env
+data
